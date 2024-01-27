@@ -7,7 +7,12 @@
 
 ## Quick Start
 
-done 
+done
+
+- more done later 
+- then later 
+
+paragraph 
 
 ## Local Development
 
